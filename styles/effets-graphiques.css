@@ -1,26 +1,31 @@
-#bloc-1:hover{
-
-    text-decoration: underline;
-    text-decoration-color: #782221;
+#bloc-1:hover {
+  text-decoration: underline;
+  text-decoration-color: #782221;
 }
 
-img:hover{
-
-    opacity: 0.4;
+#bloc-2:hover {
+  text-decoration: underline;
+  text-decoration-color: #782221;
 }
 
-a{
-
-    text-decoration: none;
+#bloc-3:hover {
+  text-decoration: underline;
+  text-decoration-color: #782221;
 }
 
-a:hover{
-
-    text-decoration: underline;
+img:hover {
+  opacity: 0.4;
 }
 
-.picture__identite:hover{
+a {
+  text-decoration: none;
+}
 
-    cursor: zoom-in;
-    opacity: initial;
+a:hover {
+  text-decoration: underline;
+}
+
+.picture__identite:hover {
+  cursor: zoom-in;
+  opacity: initial;
 }
