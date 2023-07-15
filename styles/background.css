@@ -1,86 +1,82 @@
-html{
-
+html {
   background-color: white;
 }
 
-body{
-
-    background-color: white;  
+body {
+  background-color: white;
 }
 
-header{
-
-    background-color: #782221;
-    width: auto;
-    padding: 1%;
-    color: white;
+header {
+  background-color: #782221;
+  width: auto;
+  padding: 1%;
+  color: white;
 }
 
-.picture__identite{
- 
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    border-radius: 50%;
-    box-shadow: 0 0 10px white;
-    display: initial;  
+.picture__identite {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 0 10px white;
+  display: initial;
 }
 
-.menu{
-
-    background-color: #2c1d27;     
+.menu {
+  background-color: #2c1d27;
 }
 
-.menu__address{
-  
-    color: white;
-    margin-left: 2em;  
+.menu__address {
+  color: white;
+  margin-left: 2em;
 }
 
-.menu__email{
-   
-    color: white;  
+.menu__email {
+  color: white;
 }
 
-.menu__contact{
-   
-    color: white;
-    margin-right: 2em; 
+.menu__contact {
+  color: white;
+  margin-right: 2em;
 }
 
-article{
-
-    color: white;
+div {
+  color: white;
 }
 
-.profit, footer{
-
-    background-color: #782221;
-    padding: 1%;
-    flex: 3;
+h2 {
+    color: black;
 }
 
-.profit__title{
-
-    background-color: #dbc2a4; 
+.profit,
+footer {
+  background-color: #782221;
+  padding: 1%;
+  flex: 3;
 }
 
-#bloc{
-
-    padding: 1%;
-    flex: 6;
-    border-right: 2px solid black;
+.profit__title {
+  background-color: #dbc2a4;
 }
 
-#bloc-1{
-
-    background: linear-gradient(to right, #782221 1%, #dbc2a4 1%); 
+#bloc {
+  padding: 1%;
+  flex: 6;
+  border-right: 2px solid black;
 }
 
-footer{
-
-    color: white;
+#bloc-1 {
+  background: linear-gradient(to right, #782221 1%, #dbc2a4 1%);
 }
 
+#bloc-2 {
+    background: linear-gradient(to right, #782221 1%, #dbc2a4 1%);
+}
 
+#bloc-3 {
+    background: linear-gradient(to right, #782221 1%, #dbc2a4 1%);
+}
 
+footer {
+  color: white;
+}
